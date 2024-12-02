@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\latihanresponsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|solutionrelative:latihanresponsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|c:\\users\\iamr\\source\\repos\\latihan-push-repository\\latihanresponsi\\latihanresponsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|solutionrelative:latihanresponsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\latihanresponsi\\karyawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|solutionrelative:latihanresponsi\\karyawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\latihanresponsi\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A709D-B7A3-44A7-A9C4-A0A0500DE3CF}|LatihanResponsi\\LatihanResponsi.csproj|solutionrelative:latihanresponsi\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Manager.cs",
+              "RelativeDocumentMoniker": "LatihanResponsi\\Manager.cs",
+              "ToolTip": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Manager.cs",
+              "RelativeToolTip": "LatihanResponsi\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:23:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Karyawan.cs",
+              "DocumentMoniker": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Karyawan.cs",
+              "RelativeDocumentMoniker": "LatihanResponsi\\Karyawan.cs",
+              "ToolTip": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Karyawan.cs",
+              "RelativeToolTip": "LatihanResponsi\\Karyawan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:22:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Form1.cs",
+              "RelativeDocumentMoniker": "LatihanResponsi\\Form1.cs",
+              "ToolTip": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Form1.cs [Design]",
+              "RelativeToolTip": "LatihanResponsi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:23:07.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Form1.cs",
+              "RelativeDocumentMoniker": "LatihanResponsi\\Form1.cs",
+              "ToolTip": "C:\\Users\\IamR\\source\\repos\\Latihan-Push-Repository\\LatihanResponsi\\LatihanResponsi\\Form1.cs",
+              "RelativeToolTip": "LatihanResponsi\\Form1.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAqwCsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:15:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
