@@ -13,7 +13,7 @@
 ## How to Clone ?
 1. Clone this repository
 ```
-git clone <link repo>
+git clone "https://github.com/ranisedangbekerja/493982-RaniNirmalaPrakoso-ResponsiJuniorProject.git"
 cd documentation
 ```
 2.  Manage NuGet Package
