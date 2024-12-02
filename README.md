@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
  <img width="200px" src="documentation/Hp_Logo.png" />
  <h2 align="center">Human Resources Management App</h2>
@@ -21,13 +20,16 @@ cd documentation
 ```
 install npgsql 8.0.1 version
 ```
-3. Create database with [query]()
+3. Create database with [query](https://docs.google.com/document/d/17PlUOAUIAjdBlkHTghtMoWVgsezhJSwGiikKO_8_IjM/edit?usp=sharing)
+
+## Features ?
+1. CRUD nama_karyawan, nama_departemen, nama_jabatan (Mandatory)
+   Menerapkan 3 dari 4 pilat OOP (encapsulation, inheritance, abstraction)
+2. Simulator Salary Bank (Additional)
+   Menerapkan 2 dari 4 pilar OOP (encapsulation, abstraction)
 
 <hr>
 <p align="center">
 Developed with ❤️ in Indonesia (IDN)
 </p>
 =======
-# 493982-RaniNirmalaPrakoso-ResponsiJuniorProject
-Responsi JUNPRO 2024
->>>>>>> 66ecf27a5b6182579d7e59052a2041536cf10d88
