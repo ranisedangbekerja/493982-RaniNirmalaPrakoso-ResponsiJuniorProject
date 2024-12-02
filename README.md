@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
  <img width="200px" src="documentation/Hp_Logo.png" />
  <h2 align="center">Human Resources Management App</h2>
@@ -26,3 +27,7 @@ install npgsql 8.0.1 version
 <p align="center">
 Developed with ❤️ in Indonesia (IDN)
 </p>
+=======
+# 493982-RaniNirmalaPrakoso-ResponsiJuniorProject
+Responsi JUNPRO 2024
+>>>>>>> 66ecf27a5b6182579d7e59052a2041536cf10d88
