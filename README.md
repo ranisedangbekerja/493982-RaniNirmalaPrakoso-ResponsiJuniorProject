@@ -28,10 +28,9 @@ install npgsql 8.0.1 version
    Menerapkan 3 dari 4 pilar OOP (encapsulation, inheritance, abstraction)
 3. Simulator Salary Bank (Additional)
 
-   Menerapkan 2 dari 4 pilar OOP (encapsulation, abstraction)
+   Menerapkan 3 dari 4 pilar OOP (polimorfism, encapsulation, abstraction)
 
 <hr>
 <p align="center">
 Developed with ❤️ in Indonesia (IDN)
 </p>
-=======
