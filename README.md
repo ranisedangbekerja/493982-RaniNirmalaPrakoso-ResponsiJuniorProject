@@ -24,8 +24,10 @@ install npgsql 8.0.1 version
 
 ## Features ?
 1. CRUD nama_karyawan, nama_departemen, nama_jabatan (Mandatory)
-   Menerapkan 3 dari 4 pilat OOP (encapsulation, inheritance, abstraction)
-2. Simulator Salary Bank (Additional)
+
+   Menerapkan 3 dari 4 pilar OOP (encapsulation, inheritance, abstraction)
+3. Simulator Salary Bank (Additional)
+
    Menerapkan 2 dari 4 pilar OOP (encapsulation, abstraction)
 
 <hr>
