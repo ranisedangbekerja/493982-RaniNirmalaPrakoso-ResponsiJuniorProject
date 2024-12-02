@@ -1,0 +1,46 @@
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\LatihanResponsi.exe.config
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\LatihanResponsi.exe
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\LatihanResponsi.pdb
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.csproj.AssemblyReference.cache
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.Properties.Resources.resources
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.csproj.GenerateResource.cache
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.csproj.CoreCompileInputs.cache
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.exe
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.pdb
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Npgsql.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Buffers.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Memory.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Text.Json.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Threading.Channels.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.ValueTuple.dll
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\Npgsql.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Buffers.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Memory.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Text.Json.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Threading.Channels.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\bin\Debug\System.ValueTuple.xml
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanR.D2B55668.Up2Date
+C:\Users\IamR\source\repos\Latihan-Push-Repository\LatihanResponsi\LatihanResponsi\obj\Debug\LatihanResponsi.Form1.resources
+C:\Users\Rani NP\Downloads\Latihan-Push-Repository-main\Latihan-Push-Repository-main\LatihanResponsi\obj\Debug\LatihanResponsi.csproj.AssemblyReference.cache
+C:\Users\Rani NP\Downloads\Latihan-Push-Repository-main\Latihan-Push-Repository-main\LatihanResponsi\obj\Debug\LatihanResponsi.exe
+C:\Users\Rani NP\Downloads\Latihan-Push-Repository-main\Latihan-Push-Repository-main\LatihanResponsi\obj\Debug\LatihanResponsi.pdb
